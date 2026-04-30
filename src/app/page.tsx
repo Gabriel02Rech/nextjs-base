@@ -7,7 +7,7 @@ export default function TestPage() {
 
   return (
     <main style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", minHeight: "100vh", fontFamily: "sans-serif", gap: "1rem" }}>
-      <h1>✅ Tela de Teste</h1>
+      <h1>Tela de Teste</h1>
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "0.5rem", border: "1px solid #ccc", borderRadius: "8px", padding: "1.5rem 2rem" }}>
         <span style={{ fontSize: "2rem", fontWeight: "bold" }}>{count}</span>
         <div style={{ display: "flex", gap: "0.5rem" }}>
